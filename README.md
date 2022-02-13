@@ -6,6 +6,6 @@ Uso de Retrofit para extraer los datos de peliculas y tv shows populares, con ma
 
 HashMap para cifrar y descifrar los datos.
 
-Firebase Realtime database para guardar los datos cifrados y posteriormente mostrarlos a los usuarios desde la base de datos.
+Firebase Realtime database para guardar los datos cifrados y posteriormente mostrarlos a los usuarios desde la base de datos al descifrarlos en la aplicación.
 
 Se pueden ver los datos sin conexión a Internet siempre y cuando estos hayan sido cargados por primera vez al usar la aplicación con Internet.
